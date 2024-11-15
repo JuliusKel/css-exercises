@@ -1,0 +1,12 @@
+.both{
+ font-size: 28px;   
+ font-family: "Verdana","Times New Roman","sans-serif";
+}
+
+.button1{
+    background-color: #000000;
+    color: #ffffff;
+}
+.button2{
+    background-color: #ffff00;
+}
